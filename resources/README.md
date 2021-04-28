@@ -23,6 +23,12 @@ Just a list of useful resources for general devving life
 
 - [CSS Tips - Marko Denic - Web Developer](https://markodenic.com/css-tips/)
 
+## JavaScript
+
+### Regex
+
+- [Tip: You can name capture groups for Regular Expressions in JavaScript. Define a named capture in angle brackets <> and they get returned under .groups.](https://twitter.com/addyosmani/status/1386031624232456194)
+
 ## Git
 
 
