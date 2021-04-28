@@ -10,7 +10,14 @@ Just a list of useful resources for general devving life
 
 ## HTML
 
+### Boilerplate
+
 - [My current HTML boilerplate - Manuel Matuzović](https://www.matuzo.at/blog/html-boilerplate/)
+
+### Elements
+
+#### Details
+- [Details on <details> - Google Slides](https://docs.google.com/presentation/d/1hvnPpsJo44BTPfJx28CV95vqk_dt6na1awUbk0kmZYM/edit#slide=id.g3e31444916_0_121)
 
 ## CSS
 
