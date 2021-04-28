@@ -12,6 +12,10 @@ Just a list of useful resources for general devving life
 
 - [My current HTML boilerplate - Manuel Matuzović](https://www.matuzo.at/blog/html-boilerplate/)
 
+## CSS
+
+- [CSS Tips - Marko Denic - Web Developer](https://markodenic.com/css-tips/)
+
 ## Git
 
 
